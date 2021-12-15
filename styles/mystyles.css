@@ -1,0 +1,58 @@
+
+header.masthead {
+    background-color:white;
+    color: black; 
+}
+hr {
+    color: white; 
+}
+h1 {
+    color: white; 
+}
+h2 {
+    color:white; 
+}
+header.subheading {
+    color: white; 
+}
+body {
+    background-color: skyblue;
+    color:white; 
+    -webkit-tap-highlight-color:black;
+}
+header.masthead:before {
+    background-color:white;
+    color:black; 
+}
+header.masthead {
+    color: black;
+    background-color:black;
+}
+.navbar-light .navbar-toggler {
+    color:white;
+    background-color:skyblue;
+}
+.fa-inverse {
+    color: skyblue; 
+}
+a {
+    color: white; 
+}
+.btn-primary {
+    background-color: white;
+    color: skyblue
+} 
+img, svg {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}
+p a {
+    text-align: center;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+

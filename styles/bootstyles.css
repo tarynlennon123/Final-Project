@@ -1,0 +1,26 @@
+body {
+    background-color: skyblue;
+}
+h1 {
+    text-align: center;
+    color: white;
+    margin: auto
+    
+
+}
+
+h2, h3, h4, h5, h6{
+    color: white
+}
+
+ul{
+    list-style-type: square;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: white;
+}
+
+li{
+    text-align: left;
+    list-style-type: none;
+}
